@@ -1,0 +1,14 @@
+{
+  "name": "witx-preview",
+  "owner": {
+    "name": "FoLAWy-py"
+  },
+  "description": "The WitX Developer Preview plugin marketplace.",
+  "plugins": [
+    {
+      "name": "basics",
+      "source": "./plugins/basics",
+      "description": "Everyday know-how that is not about one app."
+    }
+  ]
+}
